@@ -15,3 +15,6 @@ The mongodb is setup and needs the command
 > **Run:** brew services restart mongodb/brew/mongodb-community
 
 This assumes that you have mongodb setup using brew on mac on the port 27017.
+
+To run the website use the url: 
+> http://localhost:3000/
